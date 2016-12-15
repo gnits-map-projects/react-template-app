@@ -1,4 +1,26 @@
-This is a template application that includes [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com) and [FontAwesome](http://fontawesome.io/icons/).
+This is a template application that includes [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com) and [FontAwesome](http://fontawesome.io/icons/). Start a new application by cloning this repository.
+
+# Setup
+
+### Install Command Line Developer Tools
+
+Open Terminal (you'll probably also want to add this to the dock), and type:
+
+```
+xcode-select --install
+```
+
+Click "Install" from the software update popup window.
+
+### Install Node
+
+Download [Node](https://nodejs.org/) and install.
+
+### Download Atom
+
+Download [Atom](https://atom.io/) and install. Atom is a "hackable text editor" for editing code.
+
+# Create a new React application
 
 ### Clone this repository
 
